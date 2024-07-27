@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Glyphicons Halflings';
+	src: url(../../assets/fonts/Glyphicons%20Halflings-5a2eb741f02fd278869a07301f66400e.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Glyphicons%20Halflings-5a2eb741f02fd278869a07301f66400e.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Glyphicons%20Halflings-c91e3f9a6b52d1d571e983abbc5e8429.woff) format('woff'),
+	url(../../assets/fonts/Glyphicons%20Halflings-2e12201baa6844e45415d4481bcbfc13.ttf) format('truetype'),
+	url(../../assets/fonts/Glyphicons%20Halflings-587ceb56b9e5a4abe1adf1dbba62bd1c.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}
